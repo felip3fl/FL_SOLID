@@ -3,8 +3,8 @@
 </h3>
 
 <h3 align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-blue">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-0.0.0-blue">
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-4aadd4">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-0.0.0-4aadd4">
 </h3>
 
 <h4 align="center">
